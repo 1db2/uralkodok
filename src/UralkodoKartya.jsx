@@ -1,17 +1,17 @@
 import React from 'react';
 
-const UralkodoKartya = ({movie}) => {
+const UralkodoKartya = ({uralkodo}) => {
     return (
         <div className="uralkodo">
             <div>
-                <p>{movie.leiras}</p>
+                <p>{uralkodo.leiras}</p>
             </div>
             <div>
-                <img src={movie.kep}/>
+                <img src={uralkodo.kep}/>
             </div>
             <div>
-                <span>{movie.urk} -  {movie.urv}</span>
-                <h3>{movie.nev}</h3>
+                <span>{uralkodo.urk} -  {uralkodo.urv}</span>
+                <h3>{uralkodo.nev}</h3>
             </div>
         </div>
     )
