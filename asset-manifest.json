@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/uralkodok/static/css/main.5771bbf2.css",
+    "main.js": "/uralkodok/static/js/main.ca098d8c.js",
+    "index.html": "/uralkodok/index.html",
+    "static/media/search.svg": "/uralkodok/static/media/search.dcb1bf51adc9ebe2e837ff3983d68d86.svg",
+    "main.5771bbf2.css.map": "/uralkodok/static/css/main.5771bbf2.css.map",
+    "main.ca098d8c.js.map": "/uralkodok/static/js/main.ca098d8c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5771bbf2.css",
+    "static/js/main.ca098d8c.js"
+  ]
+}
