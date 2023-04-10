@@ -78,7 +78,7 @@ const App = () => {
                 ? (
                     <div className="container">
                         {uralkodok.map((uralkodo) => (
-                            <UralkodoKartya movie={uralkodo}/>
+                            <UralkodoKartya uralkodo={uralkodo}/>
                         ))}
                     </div>
                 ) : (
